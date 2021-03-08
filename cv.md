@@ -18,6 +18,7 @@
 * Avocode
 * Microsoft Office (Worl, Excell, Access)
 * SQL DB OpenServer
+* Git ???
 
 ### Примеры кода
 ### Work experience:
