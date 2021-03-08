@@ -1,1 +1,1 @@
-https://Elmira2505.github.io/rsschool-cv/cv
+ttps://Elmira2505.github.io/rsschool-cv/
