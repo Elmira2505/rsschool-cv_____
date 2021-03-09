@@ -1,2 +1,2 @@
-https://Elmira2505.github.io/rsschool-cv/index.html
+https://Elmira2505.github.io/rsschool-cv/
 
